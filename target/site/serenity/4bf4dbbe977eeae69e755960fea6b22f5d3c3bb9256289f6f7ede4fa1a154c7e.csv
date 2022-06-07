@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product CURD test with steps","This will create a new product","SUCCESS","2022-06-06T17:53:02.814+01:00[Europe/London]","0.0","0.44"
+"Product CURD test with steps","Verify if the product was added to the application","SUCCESS","2022-06-06T17:53:03.261+01:00[Europe/London]","0.0","0.22"
+"Product CURD test with steps","Update the product information and verify the updated information","SUCCESS","2022-06-06T17:53:03.485+01:00[Europe/London]","0.0","0.51"
+"Product CURD test with steps","Delete the product and verify if the student is deleted!","SUCCESS","2022-06-06T17:53:03.995+01:00[Europe/London]","0.0","0.36"

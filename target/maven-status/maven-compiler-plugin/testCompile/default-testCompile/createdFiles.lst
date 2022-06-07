@@ -1,0 +1,8 @@
+com\localhost\storeinfo\StoreCURDTestWithSteps.class
+com\localhost\StudentTest\StudentsGetTest.class
+com\localhost\serviceinfo\ServicesCURDTestWithSteps.class
+com\localhost\categoriesinfo\CategoriesCURDTestWithSteps.class
+com\localhost\productinfo\ProductCURDTestWithSteps.class
+com\localhost\StudentTest\FirstTest.class
+com\localhost\testbase\TestBase.class
+com\localhost\utilitiesinfo\UtilitiesCURDTestWithSteps.class

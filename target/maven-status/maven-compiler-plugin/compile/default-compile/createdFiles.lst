@@ -1,0 +1,14 @@
+com\localhost\model\CategoriesPojo.class
+com\localhost\model\StorePojo.class
+com\localhost\productinfo\CategoriesSteps.class
+com\localhost\constants\EndPoints.class
+com\localhost\utils\TestUtils.class
+com\localhost\productinfo\ServicesSteps.class
+com\localhost\constants\Path.class
+com\localhost\productinfo\UtilitiesSteps.class
+com\localhost\utils\PropertyReader.class
+com\localhost\model\ServicesPojo.class
+com\localhost\model\UtilitiesPojo.class
+com\localhost\productinfo\StoreSteps.class
+com\localhost\model\ProductPojo.class
+com\localhost\productinfo\ProductSteps.class

@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Categories CURD test with steps","This will create a new Categories","SUCCESS","2022-06-06T17:52:31.454+01:00[Europe/London]","0.0","22.06"
+"Categories CURD test with steps","Verify if the student was added to the application","SUCCESS","2022-06-06T17:52:53.609+01:00[Europe/London]","0.0","0.26"
+"Categories CURD test with steps","Update the user information and verify the updated information","SUCCESS","2022-06-06T17:52:53.874+01:00[Europe/London]","0.0","0.3"
+"Categories CURD test with steps","Delete the student and verify if the student is deleted!","SUCCESS","2022-06-06T17:52:54.177+01:00[Europe/London]","0.0","1.48"

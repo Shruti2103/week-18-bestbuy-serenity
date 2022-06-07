@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.localhost.categoriesinfo.CategoriesCURDTestWithSteps
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 33.575 sec - in com.localhost.categoriesinfo.CategoriesCURDTestWithSteps
